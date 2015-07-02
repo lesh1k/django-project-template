@@ -19,7 +19,7 @@ or follow next steps:
     $ mkdir your_project; cd your_project
     $ virtualenv venv; source venv/bin/activate
     $ pip install django
-    $ django-admin startproject --template=https://github.com/Alexx-G/django-project-template/archive/master.zip your_project
+    $ django-admin startproject --template=https://github.com/lesh1k/django-project-template/archive/master.zip
     $ pip install -r your_project/requirements/development.txt
 
 

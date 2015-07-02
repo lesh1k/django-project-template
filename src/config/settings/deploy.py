@@ -1,7 +1,6 @@
 from config.settings.base import *  # flake8: noqa
 
-DEBUG = False
-TEMPLATE_DEBUG = DEBUG
+DEBUG = TEMPLATE_DEBUG = False
 
 ALLOWED_HOSTS = [
     '*',
